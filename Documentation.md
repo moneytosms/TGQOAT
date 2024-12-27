@@ -1,6 +1,6 @@
 # Quiz Application Documentation
 
-Welcome to the **TGQOAT**! This application allows you to play a fun and interactive quiz with lifelines with local leaderboard tracking and userbase ! The core logic of the application resides in the `Main.py` file, while `Functionsq.py`, `GraphicsV2/`, and `Mysqlf.py` provide the necessary support for quiz functions, graphics, and database handling, respectively.
+Welcome to the **TGQOAT**! This application allows you to play a fun and interactive quiz with lifelines with local leaderboard tracking and userbase ! The core logic of the application resides in the `Main.py` file, while `Functionsq.py`, `GraphicsV2`, and `Mysqlf.py` provide the necessary support for quiz functions, graphics, and database handling, respectively.
 
 ## Table of Contents
 
