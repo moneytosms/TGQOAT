@@ -1,0 +1,75 @@
+What is the capital of France?
+a) Paris 	b) Rome
+c) Berlin 	d) Madrid:a#
+Who wrote the play "Romeo and Juliet"?
+a) Charles Dickens 	b) William Shakespeare
+c) Jane Austen 		d) F.Scott Fitzgerald:b#
+What is the largest planet in our solar system?
+a) Earth 		b) Mars
+c) Jupiter 		d) Saturn:c#
+Who is the current President of the United States?
+a) Barack Obama 		b) Donald Trump
+c) Joe Biden 		d) George Washington:c#
+Which famous scientist formulated the theory of relativity?
+a) Isaac Newton 		b) Albert Einstein
+c) Galileo Galilei 		d) Stephen Hawking:b#
+What is the longest river in the world?
+a) Amazon River 		b) Nile River
+c) Yangtze River 		d) Mississippi River:b#
+Who painted the Mona Lisa?
+a) Vincent van Gogh 		b) Pablo Picasso
+c) Leonardo da Vinci 		d) Michelangelo:c#
+Which gas makes up the majority of Earth's atmosphere?
+a) Oxygen 		b) Carbon Dioxide
+c) Nitrogen 		d) Hydrogen:c#
+Which country is known as the Land of the Rising Sun?
+a) China 		b) Japan
+c) South Korea 		d) Thailand:b#
+What is the chemical symbol for gold?
+a) Au 		b) Ag
+c) Fe 		d) Cu:a#
+What is the largest ocean in the world?
+a) Atlantic Ocean 		b) Indian Ocean
+c) Pacific Ocean 		d) Arctic Ocean:c#
+Who is the famous physicist known for his theory of gravity and three laws of motion?
+a) Galileo Galilei 		b) Albert Einstein
+c) Isaac Newton 		d) Stephen Hawking:c#
+What is the capital of Australia?
+a) Melbourne 		b) Sydney
+c) Canberra 		d) Brisbane:c#
+Which planet is known as the "Morning Star" or "Evening Star" and is often visible from Earth?
+a) Mars 		b) Venus
+c) Jupiter 		d) Saturn:b#
+Who wrote the novel "The Catcher in the Rye"?
+a) F. Scott Fitzgerald 		b) J.D. Salinger
+c) Ernest Hemingway 		d) Mark Twain:b#
+What is the chemical symbol for silver?
+a) Ag 		b) Si
+c) Sl 		d) Sr:a#
+What is the world's largest desert by area?
+a) Sahara Desert 		b) Gobi Desert
+c) Arabian Desert 		d) Antarctic Desert:d#
+Who wrote the play "Hamlet"?
+a) William Wordsworth 		b) William Faulkner
+c) William Shakespeare 		d) William Blake:c#
+What is the currency of South Korea?
+a) Yen 		b) Won
+c) Baht 	d) Ringgit:b#
+Who was the first woman to fly solo across the Atlantic Ocean?
+a) Amelia Earhart 	b) Bessie Coleman
+c) Sally Ride 		d) Jacqueline Cochran:a#
+What is the largest mammal on Earth?
+a) African Elephant 		b) Blue Whale
+c) Giraffe 			d) Polar Bear:b#
+What is the national flower of the United States?
+a) Rose 		b) Lily
+c) Tulip 		d) Daisy:a#
+Who wrote "The Old Man and the Sea"?
+a) F. Scott Fitzgerald 		b) Ernest Hemingway
+c) Mark Twain 			d) J.D. Salinger:b#
+Which gas do plants absorb from the atmosphere during photosynthesis?
+a) Oxygen 		b) Carbon Dioxide
+c) Nitrogen 		d) Hydrogen:b#
+What is the currency of Russia?
+a) Ruble 		b) Euro
+c) Yen 			d) Pesov:a

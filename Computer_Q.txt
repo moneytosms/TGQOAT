@@ -1,0 +1,84 @@
+What does CPU stand for in computer terminology?
+a) Central Processing Unit b) Computer Power Unit
+c) Central Program Unit d) Control Process Unit:a#
+Which programming language is often used for web development and is known for its client-side scripting capabilities?
+a) Java b) C++
+c) JavaScript d) Python:c#
+What is the primary function of an operating system in a computer?
+a) Sending emails b) Playing games
+c) Managing hardware and software resources d) Printing documents:c#
+Which company developed the Windows operating system?
+a) Apple b) Microsoft
+c) Google d) Linux:b#
+What does RAM stand for in computer terminology?
+a) Random Access Memory b) Read-Only Memory
+c) Rapid Access Memory d) Relative Application Memory:a#
+Which technology allows wireless communication between devices over short distances and is commonly used for connecting peripherals like keyboards and mice to computers?
+a) Bluetooth b) Wi-Fi
+c) NFC (Near Field Communication) d) Ethernet:a#
+What is the main function of a firewall in computer security?
+a) Protecting against viruses b) Blocking internet access
+c) Filtering network traffic and preventing unauthorized access d) Enhancing system performance:c#
+Which search engine is known for its minimalist design and is the primary product of Alphabet Inc.?
+a) Bing b) Yahoo
+c) Google d) DuckDuckGo:c#
+What type of storage device uses spinning disks to read and write data and is commonly found in traditional desktop computers?
+a) Solid-State Drive (SSD) b) Hard Disk Drive (HDD)
+c) USB Flash Drive d) Compact Disc (CD):b#
+What does URL stand for in web browsing terminology?
+a) Uniform Resource Locator b) Universal Remote Link
+c) User-Ready Location d) Unified Resource Listing:a#
+Which company is known for its line of gaming consoles, including the PlayStation series?
+a) Nintendo b) Microsoft
+c) Sony d) Sega:c#
+What is the term for a software program that replicates itself and spreads from one computer to another without the user's knowledge or consent?
+a) Virus b) Worm
+c) Trojan Horse d) Spyware:b#
+In computer programming, what does HTML stand for?
+a) Hyperlink Text Markup Language b) Hypertext Transfer Markup Language
+c) High-Level Text Markup Language d) Hyperlink Transfer Text Language:b#
+Which social media platform is known for its character limit on tweets (formerly 140 characters)?
+a) Facebook b) Instagram
+c) Twitter d) LinkedIn:c#
+What type of software allows users to create and edit documents, spreadsheets, and presentations?
+a) Antivirus software b) Graphic design software
+c) Office productivity software d) Video editing software:c#
+In computer graphics, what does GPU stand for?
+a) General Processing Unit b) Graphic Presentation Unit
+c) Graphics Processing Unit d) General Program Unit:c#
+What is the term for a computer network that spans a large geographic area, often connecting multiple smaller networks together?
+a) Local Area Network (LAN) b) Personal Area Network (PAN)
+c) Wide Area Network (WAN) d) Metropolitan Area Network (MAN):c#
+What is the primary function of a modem in computer networking?
+a) Data encryption b) Routing network traffic
+c) Modulation and demodulation of data signals d) Virus protection:c#
+Which web browser, developed by Google, is known for its speed and simplicity?
+a) Mozilla Firefox b) Microsoft Edge
+c) Safari d) Google Chrome:d#
+What technology is used to identify a user based on their unique physical or behavioral characteristics, such as fingerprints or facial recognition?
+a) Two-Factor Authentication (2FA) b) Biometrics
+c) Password encryption d) Authentication tokens:b#
+Which programming language is often used for data analysis and scientific computing, known for its readability and simplicity?
+a) Java b) C++
+c) Python d) Ruby:c#
+What is the term for a computer program that displays advertisements and tracks user behavior on websites?
+a) Firewall b) Adware
+c) Browser d) Router:b#
+In computer graphics, what does DPI stand for?
+a) Dots Per Inch b) Digital Pixel Interface
+c) Data Processing Integration d) Display Performance Index:a#
+Which video-sharing platform is owned by Google and known for its vast library of user-generated content?
+a) Vimeo b) Dailymotion
+c) YouTube d) TikTok:c#
+What is the term for a type of malware that encrypts a user's files and demands a ransom for their decryption?
+a) Spyware b) Trojan Horse
+c) Ransomware d) Adware:c#
+Which social media platform is known for its disappearing "Stories" feature?
+a) Facebook b) Twitter
+c) Instagram d) LinkedIn:c#
+What is the term for a virtual private network that allows users to browse the internet anonymously and securely?
+a) Encrypted Connection b) Proxy Server
+c) VPN (Virtual Private Network) d) Firewall:c#
+Which company is known for its line of gaming graphics cards and processors, including the GeForce series?
+a) AMD b) Intel
+c) NVIDIA d) Radeon:c

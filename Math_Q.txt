@@ -1,0 +1,81 @@
+What is the value of the mathematical constant "e" raised to the power of 2 (e^2)?
+a) 4.29 b) 7.39
+c) 2.71 d) 5.48:b#
+In a right triangle, if one acute angle measures 30 degrees, what is the measure of the other acute angle?
+a) 30 degrees b) 45 degrees
+c) 60 degrees d) 90 degrees:c#
+If a circle has a radius of 5 units, what is its circumference?
+a) 10π units b) 15π units
+c) 25π units d) 5π units:a#
+What is the result of evaluating the expression 3x^2 - 2x + 4 when x = 2?
+a) 6 b) 12
+c) 10 d) 8:b#
+How many prime numbers are there between 1 and 50?
+a) 10 b) 12
+c) 15 d) 14:c#
+What is the value of the square root of 625?
+a) 15 b) 25
+c) 30 d) 5:b#
+In trigonometry, what is the reciprocal of the sine function?
+a) Tangent b) Cosine
+c) Cosecant d) Secant:c#
+What is the sum of the first 20 positive even numbers?
+a) 420 b) 440
+c) 400 d) 480:a#
+What is the largest prime number less than 100?
+a) 97 b) 101
+c) 99 d) 103:a#
+If a rectangle has a length of 12 units and a width of 8 units, what is its area?
+a) 20 square units b) 80 square units
+c) 48 square units d) 96 square units:d#
+What is the value of 3 factorial (3!)?
+a) 3 b) 6
+c) 9 d) 12:b#
+If a car travels at a constant speed of 60 miles per hour, how many miles will it travel in 4 hours?
+a) 150 miles b) 200 miles
+c) 240 miles d) 160 miles:c#
+What is the least common multiple (LCM) of 12 and 18?
+a) 24 b) 36
+c) 48 d) 72:b#
+If the area of a square is 64 square units, what is the length of one of its sides?
+a) 8 units b) 16 units
+c) 4 units d) 12 units:a#
+What is the value of the mathematical constant "pi" (π) rounded to two decimal places?
+a) 3.14 b) 3.16
+c) 3.12 d) 3.18:a#
+What is the result of evaluating the expression log10(1000)?
+a) 0 b) 1
+c) 2 d) 3:d#
+If a box contains 12 red balls and 8 green balls, what is the probability of randomly selecting a red ball from the box?
+a) 3/10 b) 5/8
+c) 3/5 d) 2/5:c#
+What is the value of 2 to the power of 5 (2^5)?
+a) 8 b) 16
+c) 32 d) 64:c#
+If the interior angles of a polygon add up to 1080 degrees, how many sides does the polygon have?
+a) 5 b) 6
+c) 7 d) 8:d#
+What is the result of dividing 1 by 0.5?
+a) 0.5 b) 1
+c) 2 d) 0.25:c#
+In a geometric progression (GP), if the first term (a) is 3 and the common ratio (r) is 2, what is the fourth term in the GP?
+a) 6 b) 12
+c) 24 d) 48:c#
+What is the value of the mathematical constant "e" raised to the power of 1 (e^1)?
+a) 2.71 b) 3.14
+c) 1.62 d) 2.00:a#
+If a right triangle has one leg measuring 6 units and the hypotenuse measuring 10 units, what is the length of the other leg?
+a) 4 units b) 8 units
+c) 5 units d) 3 units:b#
+What is the sum of the first 15 positive odd numbers?
+a) 225 b) 120
+c) 105 d) 169:a#
+In a circle, what is the term for a line segment that connects any two points on the circumference, passing through the center?
+a) Diameter b) Radius
+c) Chord d) Arc:a#
+What is the result of evaluating the expression sin(45 degrees) + cos(45 degrees)?
+a) √2 b) 1
+c) 2√2 d) 0:a#
+If the area of a triangle is 24 square units and its base is 8 units, what is its height?
+a) 6 units b) 4 units
+c) 3 units d) 2 units:a
