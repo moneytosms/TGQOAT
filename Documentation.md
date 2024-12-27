@@ -8,7 +8,8 @@ Welcome to the **TGQOAT**! This application allows you to play a fun and interac
 - [Database Configuration](#database-configuration)
 - [Folder Structure](#folder-structure)
 - [Running the Quiz](#running-the-quiz)
-- [Adding New Topics and Questions](#add-new-categories)
+- [Adding New Topics and Questions](#add-new-categories-and-questions)
+- [Conclusion](#conclusion)
 - [License](#license)
 
 ---
@@ -79,7 +80,7 @@ python3 Main.py
 
 To expand the quiz with new categories or questions, follow these steps:
 
-## Add New Categories and questions :
+## Add New Categories and questions
 ### 1. Adding New Categories
    - Open `Main.py` and locate the function `Category_Selector(c)` where categories are defined.
    - Add a new `if` condition for the new category you wish to add. For example, to add a "History" category, you could add:
