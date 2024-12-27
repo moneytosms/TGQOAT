@@ -126,4 +126,4 @@ You can easily expand and customize the quiz by adding new topics and questions.
 Thank you for using TGQOAT !
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
