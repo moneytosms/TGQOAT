@@ -54,5 +54,9 @@ Join us on this educational adventure as we explore the development and implemen
 ### 12. Project Management and Time Management:
 - Develop project management skills by setting clear milestones and deadlines, ensuring the project progresses as planned.
 
-
-
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          Class 12 CBSE Computer Science Final Project 
+___
+## Check the [Documentation](Documentation.md) for more information on how to use this repo.
+____
