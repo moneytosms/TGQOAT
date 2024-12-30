@@ -56,7 +56,6 @@ Join us on this educational adventure as we explore the development and implemen
 
                                                                                                                                           
                                                                                                                                           
-                                                                                                                                          Class 12 CBSE Computer Science Final Project 
+> Class 12 CBSE Computer Science Final Project 
 ___
 ## Check the [Documentation](Documentation.md) for more information on how to use this repo.
-____
